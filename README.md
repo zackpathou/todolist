@@ -1,6 +1,3 @@
-# Todo-list-with-php
-A simple todo list with bootstrap and raw php
-
 ## How to run:
 * create a database and name it "todo"
 * upload 'todo.sql'  file in "todo" database
